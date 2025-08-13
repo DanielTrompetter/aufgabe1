@@ -3,10 +3,10 @@
     String dayStr ="Tag";
     String worldStr = "Welt";
     int d = 20;
-    String timeStr = "time";
+    String timeStr = "Zeit";
     int seven = 7;
     int twelve = 12;
-    String exclamationStr = "!";
+    String exclamationStr ‚= "!";
     int a = 24;
     String beautyStr = "Schöne";
     String morningStr ="Morgen";
